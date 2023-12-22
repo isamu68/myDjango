@@ -1,0 +1,2 @@
+# myDjango
+Learning Django programming
